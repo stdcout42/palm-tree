@@ -1,2 +1,2 @@
 # palm-tree
-Data Science 
+Data Science Kickstarter project
